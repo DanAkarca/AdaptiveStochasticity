@@ -1,6 +1,6 @@
-# The Adaptive Stochasticity Hypothesis
+# The adaptive stochasticity hypothesis: modelling equifinality, multifinality, and adaptation to adversity
 
-This repository contains demo code to run the simulations outlined in Carozza*, Akarca* & Astle et al. 2023 (in Print in PNAS). 
+This repository contains demo code to run the simulations outlined in Carozza*, Akarca* & Astle et al. 2023. The adaptive stochasticity hypothesis: modelling equifinality, multifinality, and adaptation to adversity. In Print in PNAS. 
 
 For relevant data that works with this code, please go to https://osf.io/hsc87/
 
