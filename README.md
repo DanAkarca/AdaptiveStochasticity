@@ -9,4 +9,4 @@ For any questions regarding the use of this repository, please get in touch at d
 If using the code, please consider citing our paper: Carozza, Akarca & Astle. 2023. The adaptive stochasticity hypothesis: modelling equifinality, multifinality, and adaptation to adversity
 . bioRxiv. https://www.biorxiv.org/content/10.1101/2023.05.02.539045v1 (in Print in PNAS).
 
-[figure_7.pdf](https://github.com/DanAkarca/AdaptiveStochasticity/files/12537486/figure_7.pdf)
+![press_release](https://github.com/DanAkarca/AdaptiveStochasticity/assets/28649488/8330d56f-8d87-4330-a101-699ff732ef68)
